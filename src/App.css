@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.form{
+  height:130px;
+  width:20%;
+  border:1px solid black;
+  margin:auto;
+  margin-top:10%
+}
+.form>div{
+  margin-bottom:4px;
+  padding:10px
+}
+input{
+  margin-left:5%
+}
+#navbar{
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(187,196,190);
+  color: rgb(64,83,97);
+  font-size: 20px;
+}
+#navbar>p{
+    margin-left: 80px;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+}
+.showdetails{
+  margin-top:8%
+}
